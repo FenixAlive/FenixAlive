@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on TCS Mexico as Angular, C# .net developer
+- 🌱 I’m currently learning Nextjs framework, practicing React and learning React Native
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: https://mx.linkedin.com/in/luis-angel-munoz-franco
 
 <!--
 **FenixAlive/FenixAlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
