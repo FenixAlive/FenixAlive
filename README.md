@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on TCS Mexico as Angular, C# .net developer
-- 🌱 I’m currently learning Nextjs framework, practicing React and learning React Native
+- 🌱 Practicing React and Astro with Supabase and firebase.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: https://mx.linkedin.com/in/luis-angel-munoz-franco
 
